@@ -10,25 +10,25 @@ Imported the Iris dataset using pandas / seaborn
 
 Inspected dataset structure using:
 
-.shape
-.columns
-.head()
-.describe()
+a.shape
+b.columns
+c.head()
+d.describe()
 
 2. Data Visualization
 
 Created visualizations using matplotlib and seaborn:
 
-Scatter Plot
+a. Scatter Plot
 Visualized relationships between variables, e.g., sepal length vs sepal width.
 
-Histograms
+b. Histograms
 Plotted distributions of numerical features to understand spread and shape.
 
-Box Plots
+c. Box Plots
 Identified outliers and compared feature ranges across species.
 
-Tools & Libraries
+3. Tools & Libraries
 
 Python
 Pandas
@@ -36,9 +36,3 @@ Matplotlib
 Seaborn
 Purpose
 
-This task is part of an internship assignment aimed at strengthening skills in:
-
-Data exploration
-Basic statistics
-Data visualization
-Understanding dataset patterns
