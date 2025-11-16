@@ -10,9 +10,9 @@ Imported the Iris dataset using pandas / seaborn
 
 Inspected dataset structure using:
 
-.shape
-.columns
-.head()
+.shape\n
+.columns\n
+.head()\n
 .describe()
 
 2. Data Visualization
