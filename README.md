@@ -11,11 +11,8 @@ Imported the Iris dataset using pandas / seaborn
 Inspected dataset structure using:
 
 .shape
-
 .columns
-
 .head()
-
 .describe()
 
 2. Data Visualization
